@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 I'm an MCA student passionate about software development. I enjoy working on backend projects and solving challenging problems.
 
 ### 🔧 Tech Stack
-- **Languages:** Java, JavaScript, Python
+- **Languages:** Java, JavaScript, C, C++, PHP, Python
 - **Frameworks:** Spring Boot
 - **Databases:** MySQL
 
 ### 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/prathmesh-bagal-496451274) | [Email](mailto:prathm123bagal@gmail.com)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=prathmesh193.prathmesh193)

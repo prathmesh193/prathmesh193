@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Prathmesh !
+
+I'm an MCA student passionate about software development. I enjoy working on backend projects and solving challenging problems.
+
+### 🔧 Tech Stack
+- **Languages:** Java, JavaScript, Python
+- **Frameworks:** Spring Boot
+- **Databases:** MySQL
+
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/prathmesh-bagal-496451274) | [Email](mailto:prathm123bagal@gmail.com)
